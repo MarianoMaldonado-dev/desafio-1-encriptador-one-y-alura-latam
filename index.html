@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html lang="es-419">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="CSS/reset.css"> <!-- Reset del navegador -->
+        <link rel="shortcut icon" href="img/binary-code-algorithm-svgrepo-com.svg" type="image/x-icon"/>
+        <link rel="stylesheet" type="style" href="CSS/index_styles.css"> <!-- Estilo de la página --> 
+        <title>Encriptador Alura | Desafío 1</title>
+    </head>
+
+    <body>
+        <header>
+            <a href="https://www.aluracursos.com"/ class="alura-link"><h1><img src="img/Logo.svg" class="logoA"></h1></a><h1 class="title">lura Challenges | Encriptador</h1>
+        </header>
+
+        <main>
+
+            <div class="condiciones">
+                <img src="img/bi_exclamation-circle-fill.png" alt="exclamation circle" class="circleCondition"><h6 id="condition">Sólo letras minúsculas y sin acentos ni caracteres especiales</h6>
+            </div>
+
+            <div class="boxContent">
+                <section class="boxMsg">
+                    <textarea id="txtMensajeEncript" class="txtMensaje" placeholder="Escriba su texto aquí"></textarea>
+                    <textarea id="txtResultado" class="txtOutput" placeholder="No se ha encontrado ningún texto" readonly="readonly"></textarea>
+                </section>
+
+                <nav class="botonera">
+                    <button class="Encriptar" onclick="btnEncriptar()">Encriptar</button>
+                    <button class="Desencriptar" onclick="btnDesencriptar()">Desencriptar</button>
+                    <button id="copy" class="Copiar" onclick="btnCopiar()">Copiar</button>
+                </nav>
+            </div>
+        </main>
+        
+        <footer>
+            <p class="copyright">&copy; Copyright &#124; Todos los derechos reservados &#124; Año 2024</p>
+
+            <p class="copyright">El logo "a" como así también el nombre Alura pertenece a Alura LATAM &copy;</p>
+
+            <h6 class="code-design">Creado y Editado por &#123; Code&#60;&#47;&#62;Design &#125 &#174 &#124; Mariano Maldonado</h6>
+
+            <div class="social">
+
+                <div class="boxSocial">
+                    <div class="githubIcon">
+                        <section class="bckgrKatze">
+                            <a class="perfil" href="https://github.com/SuperMarianWorld"><img src="img/github-svgrepo-com.svg" class="katze"></a>
+                        </section>
+                    </div>
+                </div>
+
+                <div class="boxSocial">
+                    <div class="linkedinIcon">
+                        <section class="inLetters">
+                            <a class="perfil" href="https://www.linkedin.com/in/mariano-maldonado-810847288"><h1>in</h1></a>
+                        </section>
+                    </div>
+                </div>
+
+                <div class="boxSocial">
+                    <div class="aluraIcon">
+                        <section class="aLetters">
+                            <a class="perfilA" href="https://app.aluracursos.com/user/cyberwargamesproductions"><h1>a</h1></a>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script src="Scripts/script_encrypt.js"></script>
+        
+    </body>
+
+</html>
