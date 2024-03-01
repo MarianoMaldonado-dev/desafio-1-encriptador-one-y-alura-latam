@@ -1,6 +1,6 @@
 <h1>¡Bienvenido a mi Sistema de Encriptación de textos!</h1>
 
-              <h2>Acerca de ésta página</h2>
+  <h3>Acerca de ésta página</h3>
 
 <p>
   Esta página es producto de un Desafío de código creado por Alura Latam e impuesto a sus estudiantes para demostrar sus habilidades 
@@ -9,7 +9,7 @@
   los colores usados no combinaban en absoluto. No quiere decir que yo sepa combinar los colores, los temas de colores que he elegido los he visto de un programa
   (Foxit Reader) y siempre me ha gustado ese tema oscuro porque hace que tu vista no se canse a la lectura y no te sientas fatigado por los contrastes Negro/Blanco.
 
-    El producto de esa experiencia personal ha contribuído a que logre una combinación de colores suaves, agradable a la vista, reduciendo los contrastes blancos
+  El producto de esa experiencia personal ha contribuído a que logre una combinación de colores suaves, agradable a la vista, reduciendo los contrastes blancos
   lo máximo posible (dejándolo sólo para textos importantes como botones y advertencias) y evitando usar un fondo negro.
 
   Sin embargo, no por ofrecer un tema oscuro significa que mi sistema no es funcional... Funciona perfectamente como se pidió en la consigna.
@@ -24,9 +24,9 @@
   ¡Muchas gracias por visitar mi sistema de encriptación!
 </p>
 
-      <a href="https://supermarianworld.github.io/desafio-1-encriptador-one-y-alura-latam/">Visitar Sitio</a>
+  <a href="https://supermarianworld.github.io/desafio-1-encriptador-one-y-alura-latam/">Visitar Sitio</a>
 
-                          <h4> &#125; Binary&#60;&#47;&#62;Code &#125; &#174; &#124; &#125; Code&#60;&#47;&#62;Designs &#125; </h4>
+  <h4> &#125; Binary&#60;&#47;&#62;Code &#125; &#174; &#124; &#125; Code&#60;&#47;&#62;Designs &#125; </h4>
 
 
 
