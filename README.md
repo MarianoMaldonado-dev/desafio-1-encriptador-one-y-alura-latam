@@ -26,6 +26,35 @@
 
   <a href="https://supermarianworld.github.io/desafio-1-encriptador-one-y-alura-latam/">Visitar Sitio</a>
 
+  <h5>Lo que he aprendido al construir ésta página:</h5>
+<hr>
+<ul>
+  <li>A usar la semántica de HTML para organizar de mejor manera la información y contenido</li>
+  <li>Adquirí más experiencia en el uso de CSS y mejorar la creatividad</li>
+  <li>Aprendí a crear formularios y trabajar con datos ingresados</li>
+  <li>Adquirí más experiencia en el uso de JavaScript y trabajar con el DOM</li>
+  <li>Mejoré mi lógica de programación y aprendí a comprender código al usar funciones y arrays</li>
+  <li>Trabajo en equipo. No estuve solo en ésto, tuve ayuda de mis compañeros en Discord además de otras fuentes personales de ayuda. ¡MUCHAS GRACIAS POR LA AYUDA!</li>
+  <li>Aprendí a trabajar con código creado por otras personas y entender su lógica sin comentarios</li>
+  <li>Aprendí a subir un proyecto a GitHub de manera más organizada en carpetas</li>
+  <li>Aprendí a hacer uso del CodeSpace de GitHub para realizar correcciones y actualizaciones de código</li>
+</ul>
+<hr>
+ <h5>Mis puntos fuertes en el proceso:</h5>
+ <ul>
+  <li>Capacidad de organización, enfoque y dedicación para comenzar un proyecto y terminarlo en tiempo y forma</li>
+  <li>Buena creatividad</li>
+  <li>Determinación para solucionar problemas y situaciones que surgen en el proceso del ciclo de vida de un proyecto</li>
+  <li>Cuando quiero implementar algo que no está en mi conocimiento lo investigo y lo estudio hasta que lo pueda aprovechar</li>
+</ul>
+<hr>
+ <h5>Mis puntos débiles en el proceso:</h5>
+ <ul>
+  <li>Todavía no comprendo como funcionan las rutas y url al cargar imágenes, en éste proyecto en particular me costó que las imágenes cargaran aún teniendo las rutas correctamente</li>
+  <li>Buscar soluciones momentáneas y poco convencionales para el ídem anterior</li>
+  <li>Cuando una función o implementación no logro hacerla funcionar, lo quito o lo dejo comentado. Es mi falta de experiencia en ese tema particular que en algún momento de mi aprendizaje lograré corregir.</li>
+</ul>
+
    <h4> &#123; Binary&#60;&#47;&#62;Code &#125; &#124; &#123; Code&#60;&#47;&#62;Designs &#125;  &#174;</h4>
 
 
