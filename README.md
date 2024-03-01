@@ -26,7 +26,7 @@
 
   <a href="https://supermarianworld.github.io/desafio-1-encriptador-one-y-alura-latam/">Visitar Sitio</a>
 
-   <h4> &#123; Binary&#60;&#47;&#62;Code &#125; &#174; &#124; &#123; Code&#60;&#47;&#62;Designs &#125; </h4>
+   <h4> &#123; Binary&#60;&#47;&#62;Code &#125; &#124; &#123; Code&#60;&#47;&#62;Designs &#125;  &#174;</h4>
 
 
 
