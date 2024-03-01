@@ -37,7 +37,7 @@ header{
                 
 main{
     background: #191919;
-    background-image: url(img/code.png);
+    background: url(img/code.png);
     background-repeat: repeat, repeat-x, repeat-y;
     width: 200%;
     padding-top: 2em;
@@ -98,7 +98,7 @@ textarea{
 
 #txtResultado{
     background: #706f6f;
-    background-image: url(img/Munieco.svg);
+    background: url(img/Munieco.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-position: bottom;
